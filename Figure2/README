@@ -1,0 +1,4 @@
+To reproduce Figure2 one needs to download the results of the 
+simulation of the conductance based leaky integrate and fire neuron.
+They can be downloaded at bethgelab.org/code/gatys2015/binary_signal_fast.mat 
+and should be saved under /Gatys2015/Figure2/data/ (1.4G).
