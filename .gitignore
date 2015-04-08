@@ -1,6 +1,6 @@
 #ignore the simulation data from Figure2
 #this is a large file and has to be downloaded separetely from ...
 #lgatys 08/04/15
-/Figure2/data/*
+/Figure2/data/*.mat
 #ignore tmp matlab files
 *~
